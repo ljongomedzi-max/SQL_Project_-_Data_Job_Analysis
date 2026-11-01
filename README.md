@@ -291,7 +291,28 @@ More broadly, the project demonstrates the complete analytical workflow:
 Raw Data → Database → SQL → EDA → Insights → Recommendations
 This provides a practical example of applying SQL not merely as a querying language, but as a tool for solving real-world analytical problems and communicating evidence-based findings.
 ________________________________________
-## 13. Dashboard
+## 13. SQL Query Files
+Each EDA subsection has a matching PostgreSQL query file:
+
+| EDA section | SQL file |
+| --- | --- |
+| [7.1 Job Category Demand](#71-job-category-demand) | [`eda-7.1-job-category-demand.sql`](eda-7.1-job-category-demand.sql) |
+| [7.2 Salary by Job Category](#72-salary-by-job-category) | [`eda-7.2-salary-by-job-category.sql`](eda-7.2-salary-by-job-category.sql) |
+| [7.3 Highest Individual Salaries](#73-highest-individual-salaries) | [`eda-7.3-highest-individual-salaries-and-skills.sql`](eda-7.3-highest-individual-salaries-and-skills.sql) |
+| [7.4 Most In-Demand Skills](#74-most-in-demand-skills) | [`eda-7.4-most-in-demand-skills-overall.sql`](eda-7.4-most-in-demand-skills-overall.sql) |
+| [7.5 Most In-Demand Data Analyst Skills](#75-most-in-demand-data-analyst-skills) | [`eda-7.5-most-in-demand-data-analyst-skills.sql`](eda-7.5-most-in-demand-data-analyst-skills.sql) |
+| [7.6 Skills and Salary](#76-skills-and-salary) | [`eda-7.6-data-analyst-skills-and-salaries.sql`](eda-7.6-data-analyst-skills-and-salaries.sql) |
+| [7.7 Company Analysis](#77-company-analysis) | [`eda-7.7-data-analyst-postings-by-company.sql`](eda-7.7-data-analyst-postings-by-company.sql) |
+| [7.8 Geographic Distribution](#78-geographic-distribution) | [`eda-7.8-data-analyst-postings-by-country.sql`](eda-7.8-data-analyst-postings-by-country.sql) |
+| [7.9 Remote Work](#79-remote-work) | [`eda-7.9-remote-data-analyst-jobs-by-country.sql`](eda-7.9-remote-data-analyst-jobs-by-country.sql) |
+| [7.10 Remote vs Non-Remote Salary](#710-remote-vs-non-remote-salary) | [`eda-7.10-remote-vs-nonremote-data-analyst-salaries.sql`](eda-7.10-remote-vs-nonremote-data-analyst-salaries.sql) |
+| [7.11 Monthly Job Demand](#711-monthly-job-demand) | [`eda-7.11-data-analyst-job-demand-over-time.sql`](eda-7.11-data-analyst-job-demand-over-time.sql) |
+| [7.12 Monthly Salary Trend](#712-monthly-salary-trend) | [`eda-7.12-data-analyst-salary-trend-over-time.sql`](eda-7.12-data-analyst-salary-trend-over-time.sql) |
+
+Run the queries against the project database after loading the source data and creating the tables described in [Database Design](#5-database-design). The results depend on the dataset loaded into those tables.
+
+---
+## 14. Dashboard
 The final dashboard should provide visual summaries of:
 - Job category demand
 - Data Analyst skill demand
@@ -305,7 +326,7 @@ The final dashboard should provide visual summaries of:
 - Companies with the most Data Analyst postings
 The dashboard should allow users to interact with the analysis through filters such as country, company, job category, skill, remote status, and time period.
 ________________________________________
-## 14. Project Skills Demonstrated
+## 15. Project Skills Demonstrated
 This project demonstrates practical experience in:
 SQL
 - Complex queries
@@ -333,7 +354,7 @@ Business Analytics
 - Communicating findings
 - Making evidence-based recommendations
 ________________________________________
-## 15. Portfolio Project Summary
+## 16. Portfolio Project Summary
 ### Project Title
 Data Analyst Job Market Analysis Using SQL
 ### Tools
