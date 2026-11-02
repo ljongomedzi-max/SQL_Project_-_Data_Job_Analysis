@@ -180,17 +180,19 @@ ________________________________________
 ### 7.8 Geographic Distribution
 The United States had the largest number of Data Analyst postings, followed by several European and Asian markets.
 Top countries included:
+```
 Country	Data Analyst Postings
-United States	67,956
-France	13,855
-United Kingdom	10,509
-Germany	7,141
-Singapore	6,642
-India	6,133
-Spain	5,182
-Philippines	4,770
-Italy	4,570
-Netherlands	4,126
+United States   | ████████████████████████████████████████ 67,956
+France          | ████████                               13,855
+United Kingdom  | ██████                                 10,509
+Germany         | ████                                    7,141
+Singapore       | ████                                    6,642
+India           | ████                                    6,133
+Spain           | ███                                     5,182
+Philippines     | ███                                     4,770
+Italy           | ███                                     4,570
+Netherlands     | ██                                      4,126
+```
 ________________________________________
 ### 7.9 Remote Work
 Remote Data Analyst postings were identified across many countries.
