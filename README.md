@@ -103,7 +103,6 @@ The largest job categories were:
 - Business Analyst — 49,160
 - Software Engineer — 45,019
 
-Job Category Demand
 ```
 Data Analyst      ████████████████████████████████████████ 196,593
 Data Engineer     ██████████████████████████████████████   186,679
