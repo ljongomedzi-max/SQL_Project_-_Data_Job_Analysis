@@ -107,18 +107,19 @@ Software Engineer █████████                                 45
 This demonstrates substantial demand across data and technology-related roles.
 ________________________________________
 ### 7.2 Salary by Job Category
-Median annual salaries included:
-Job Category	Median Salary
-Senior Data Scientist	$155,000
-Senior Data Engineer	$147,500
-Data Scientist	$127,500
-Data Engineer	$125,000
-Senior Data Analyst	$111,175
-Machine Learning Engineer	$106,000
-Software Engineer	$99,150
-Data Analyst	$90,000
-Cloud Engineer	$90,000
-Business Analyst	$85,000
+Median Annual Salary by Job Category (USD)
+```
+Senior Data Scientist    ████████████████████████████████ $155,000
+Senior Data Engineer     ██████████████████████████████   $147,500
+Data Scientist           ██████████████████████████       $127,500
+Data Engineer            ██████████████████████████       $125,000
+Senior Data Analyst      ██████████████████████           $111,175
+Machine Learning Eng.    █████████████████████            $106,000
+Software Engineer        ███████████████████              $99,150
+Data Analyst             █████████████████                $90,000
+Cloud Engineer           █████████████████                $90,000
+Business Analyst         ███████████████                  $85,000
+```
 Only postings containing annual salary information were included in this analysis.
 ________________________________________
 ### 7.3 Highest Individual Salaries
