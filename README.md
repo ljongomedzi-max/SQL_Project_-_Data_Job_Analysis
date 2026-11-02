@@ -104,12 +104,14 @@ The largest job categories were:
 - Software Engineer — 45,019
 
 Job Category Demand
-<img width="984" height="413" alt="image" src="https://github.com/user-attachments/assets/00bf608a-452e-4e06-a3a3-af902670c379" />
+```
 Data Analyst      ████████████████████████████████████████ 196,593
 Data Engineer     ██████████████████████████████████████   186,679
 Data Scientist    ███████████████████████████████████      172,726
 Business Analyst  ██████████                                49,160
 Software Engineer █████████                                 45,019
+```
+
 This demonstrates substantial demand across data and technology-related roles.
 ________________________________________
 ### 7.2 Salary by Job Category
