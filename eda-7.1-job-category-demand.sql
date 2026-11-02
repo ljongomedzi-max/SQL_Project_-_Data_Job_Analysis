@@ -5,3 +5,5 @@ SELECT
 FROM job_postings_fact
 GROUP BY job_title_short
 ORDER BY job_postings DESC;
+
+
