@@ -97,12 +97,6 @@ ________________________________________
 ## 7. Exploratory Data Analysis
 ### 7.1 Job Category Demand
 The largest job categories were:
-- Data Analyst — 196,593
-- Data Engineer — 186,679
-- Data Scientist — 172,726
-- Business Analyst — 49,160
-- Software Engineer — 45,019
-
 ```
 Data Analyst      ████████████████████████████████████████ 196,593
 Data Engineer     ██████████████████████████████████████   186,679
@@ -110,7 +104,6 @@ Data Scientist    ████████████████████�
 Business Analyst  ██████████                                49,160
 Software Engineer █████████                                 45,019
 ```
-
 This demonstrates substantial demand across data and technology-related roles.
 ________________________________________
 ### 7.2 Salary by Job Category
