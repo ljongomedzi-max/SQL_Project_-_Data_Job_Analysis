@@ -173,16 +173,9 @@ These are associations rather than causal effects. Salary can also reflect senio
 ________________________________________
 ### 7.7 Company Analysis
 Companies and organizations with large numbers of Data Analyst postings included:
-- Emprego
-- Robert Half
-- Insight Global
-- Citi
-- Dice
-- UnitedHealth Group
-- Confidenziale
-- Get It Recruit - Information Technology
-- Michael Page
-- Randstad
+```
+<img width="806" height="664" alt="Top companies by Data Analyst postings" src="https://github.com/user-attachments/assets/6c7f875c-f5d5-410d-a10f-c138d4ed40e3" />
+```
 These figures represent job postings associated with company names in the dataset. They should not be interpreted as employee counts or necessarily as unique vacancies.
 ________________________________________
 ### 7.8 Geographic Distribution
