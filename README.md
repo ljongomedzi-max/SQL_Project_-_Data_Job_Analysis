@@ -1,26 +1,5 @@
 # Data Analyst Job Market Analysis Using SQL
-```
-┌─────────────────────────────────────────────────────────────┐
-│              DATA ANALYST JOB MARKET ANALYSIS               │
-├────────────┬────────────┬────────────┬──────────┬───────────┤
-│ 787,686    │ 196,593    │ 140,033    │   259    │  $90,000 │
-│ Total Jobs │ DA Jobs    │ Companies  │  Skills  │ DA Median │
-├─────────────────────────┬───────────────────────────────────┤
-│ Job Categories          │ Monthly DA Job Demand             │
-│                         │                                   │
-├─────────────────────────┼───────────────────────────────────┤
-│ Top DA Skills           │ Median Salary by Category         │
-│                         │                                   │
-├─────────────────────────┼───────────────────────────────────┤
-│ Skill Demand vs Salary  │ Remote vs Non-Remote Salary       │
-│                         │                                   │
-├─────────────────────────┼───────────────────────────────────┤
-│ Jobs by Country         │ Remote % by Country               │
-│                         │                                   │
-├─────────────────────────────────────────────────────────────┤
-│                  KEY INSIGHTS & RECOMMENDATIONS              │
-└─────────────────────────────────────────────────────────────┘
-```
+
 ## Table of Contents
 - [Executive Summary](#1-executive-summary)
 - [Project Objective](#2-project-objective)
@@ -243,7 +222,7 @@ ________________________________________
 ### 7.10 Remote vs Non-Remote Salary
 For Data Analyst postings containing salary information:
 ```
-Table X. Average and Median Salaries by Work Arrangement for Data Analyst Postings
+Table: Average and Median Salaries by Work Arrangement for Data Analyst Postings
 
 | Work Arrangement | Average Salary (USD) | Median Salary (USD) |
 |------------------|---------------------:|--------------------:|
