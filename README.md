@@ -8,10 +8,10 @@
 - [Recommendations](#10-recommendations)
 ## 1. Executive Summary
 This project analyzes 787,686 job postings using PostgreSQL and SQL to identify patterns in Data Analyst demand, salaries, skills, remote work, geographic distribution, companies, and hiring trends.
-The analysis found that
--Data Analyst is one of the largest job categories in the dataset, with approximately 196,593 postings.
--SQL was the most frequently requested Data Analyst skill, followed by Excel.
--Salary patterns varied considerably across job categories, companies, skills, locations, and work arrangements. 
+The analysis found that  
+-Data Analyst is one of the largest job categories in the dataset, with approximately 196,593 postings.  
+-SQL was the most frequently requested Data Analyst skill, followed by Excel.  
+-Salary patterns varied considerably across job categories, companies, skills, locations, and work arrangements.   
 The analysis also identified substantial geographic differences in job availability.
 The project demonstrates how SQL can transform a large relational dataset into practical insights that support career analysis and business decision-making.
 ________________________________________
