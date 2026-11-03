@@ -93,6 +93,8 @@ The project uses:
 - Conditional aggregation
 - Filtering
 - Data validation
+
+🔍SQL queries? Check them out here: [project_sql folder](/project_sql/)
 ________________________________________
 ## 7. Exploratory Data Analysis
 ### 7.1 Job Category Demand
@@ -219,7 +221,7 @@ __________________________________________________________
 |Work Arrangement|Average Salary (USD)|Median Salary (USD)|
 |Remote	         |$94,770	            |$87,250            |
 |Non-remote	     |$93,765	            |$90,000            |
-___________________________________________________________
+
 Source: Analysis of Data Analyst job postings containing annual salary information.
 ```
 The average and median produced different comparisons, demonstrating the importance of using multiple measures when examining salary distributions.
