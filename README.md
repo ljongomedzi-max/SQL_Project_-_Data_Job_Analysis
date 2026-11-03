@@ -157,16 +157,8 @@ SQL and Python were particularly prominent across the job market.
 ________________________________________
 ### 7.5 Most In-Demand Data Analyst Skills
 The leading Data Analyst skills were:
-1. SQL
-2. Excel
-3. Python
-4. Tableau
-5. Power BI
-6. R
-7. SAS
-8. PowerPoint
-9. Word
-10. SAP
+![Top 20 skills for Data Analysts](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/assets/Top%2020%20skills%20for%20Data%20Analyst%20jobs.png!)  
+
 SQL appeared in approximately 92,628 Data Analyst postings.
 ________________________________________
 ### 7.6 Skills and Salary
