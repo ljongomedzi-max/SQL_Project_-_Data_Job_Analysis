@@ -174,7 +174,7 @@ ________________________________________
 ### 7.7 Company Analysis
 Companies and organizations with large numbers of Data Analyst postings included:
 ```
-![Top companies by Data Analyst postings]("https://github.com/user-attachments/assets/6c7f875c-f5d5-410d-a10f-c138d4ed40e3" /)
+![Top companies by Data Analyst postings](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/assets/Top%20companies%20by%20Data%20Analyst%20postings.png)
 ```
 These figures represent job postings associated with company names in the dataset. They should not be interpreted as employee counts or necessarily as unique vacancies.
 ________________________________________
