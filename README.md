@@ -1,4 +1,5 @@
 # Data Analyst Job Market Analysis Using SQL
+
 ## Table of Contents
 - [Executive Summary](#1-executive-summary)
 - [Project Objective](#2-project-objective)
@@ -172,16 +173,9 @@ These are associations rather than causal effects. Salary can also reflect senio
 ________________________________________
 ### 7.7 Company Analysis
 Companies and organizations with large numbers of Data Analyst postings included:
-- Emprego
-- Robert Half
-- Insight Global
-- Citi
-- Dice
-- UnitedHealth Group
-- Confidenziale
-- Get It Recruit - Information Technology
-- Michael Page
-- Randstad
+```
+![Top companies by Data Analyst postings]("https://github.com/user-attachments/assets/6c7f875c-f5d5-410d-a10f-c138d4ed40e3" /)
+```
 These figures represent job postings associated with company names in the dataset. They should not be interpreted as employee counts or necessarily as unique vacancies.
 ________________________________________
 ### 7.8 Geographic Distribution
@@ -221,7 +215,7 @@ ________________________________________
 ### 7.10 Remote vs Non-Remote Salary
 For Data Analyst postings containing salary information:
 ```
-Table X. Average and Median Salaries by Work Arrangement for Data Analyst Postings
+Table: Average and Median Salaries by Work Arrangement for Data Analyst Postings
 
 | Work Arrangement | Average Salary (USD) | Median Salary (USD) |
 |------------------|---------------------:|--------------------:|
