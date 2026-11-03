@@ -1,12 +1,22 @@
 # Data Analyst Job Market Analysis Using SQL
 
 ## Table of Contents
-- [Executive Summary](#1-executive-summary)
-- [Project Objective](#2-project-objective)
-- [Database Design](#5-database-design)
-- [Exploratory Data Analysis](#7-exploratory-data-analysis)
-- [Key Findings](#8-key-findings)
-- [Recommendations](#10-recommendations)
+[1. Executive Summary](#1-executive-summary)  
+[2. Project Objective](#2-project-objective)  
+[3. Business Questions](#3-business-questions)  
+[4. Dataset](#4-Dataset)  
+[5. Database Design](#5-database-design)  
+[6. Tools and Technologies](#6-Tools-and-Technologies)  
+[7. Exploratory Data Analysis](#7-exploratory-data-analysis)  
+[8. Key Findings](#8-key-findings)  
+[ 9. Career Insights](#9-Career-Insights)  
+[10. Recommendations](#10-recommendations)    
+[11. Limitations](#11-Limitations)  
+[12. Conclusion](#12-Conclusion)  
+[13. SQL Query Files](#13-SQL-Query-Files)  
+[14. Project Skills Demonstrated](#14-Project-Skills-Demonstrated)  
+[15. Portfolio Project Summary](#15-Portfolio-Project-Summary)
+
 ## 1. Executive Summary
 This project analyzes 787,686 job postings using PostgreSQL and SQL to identify patterns in Data Analyst demand, salaries, skills, remote work, geographic distribution, companies, and hiring trends.
 The analysis found that  
@@ -98,9 +108,6 @@ The project uses:
 - Conditional aggregation
 - Filtering
 - Data validation
-
-💡
-🔍SQL queries? Check them out here: [project_sql folder](/project_sql/)
 ________________________________________
 ## 7. Exploratory Data Analysis
 ### 7.1 Job Category Demand
@@ -150,16 +157,8 @@ SQL and Python were particularly prominent across the job market.
 ________________________________________
 ### 7.5 Most In-Demand Data Analyst Skills
 The leading Data Analyst skills were:
-1. SQL
-2. Excel
-3. Python
-4. Tableau
-5. Power BI
-6. R
-7. SAS
-8. PowerPoint
-9. Word
-10. SAP
+![Top 20 skills for Data Analysts](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/assets/Top%2020%20skills%20for%20Data%20Analyst%20jobs.png)  
+
 SQL appeared in approximately 92,628 Data Analyst postings.
 ________________________________________
 ### 7.6 Skills and Salary
@@ -174,7 +173,7 @@ ________________________________________
 ### 7.7 Company Analysis
 Companies and organizations with large numbers of Data Analyst postings included:
 ```
-![Top companies by Data Analyst postings]("https://github.com/user-attachments/assets/6c7f875c-f5d5-410d-a10f-c138d4ed40e3" /)
+![Top companies by Data Analyst postings](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/assets/Top%20companies%20by%20Data%20Analyst%20postings.png)
 ```
 These figures represent job postings associated with company names in the dataset. They should not be interpreted as employee counts or necessarily as unique vacancies.
 ________________________________________
@@ -314,37 +313,22 @@ Each EDA subsection has a matching PostgreSQL query file:
 
 | EDA section | SQL file |
 | --- | --- |
-| [7.1 Job Category Demand](#71-job-category-demand) | [`eda-7.1-job-category-demand.sql`](eda-7.1-job-category-demand.sql) |
-| [7.2 Salary by Job Category](#72-salary-by-job-category) | [`eda-7.2-salary-by-job-category.sql`](eda-7.2-salary-by-job-category.sql) |
-| [7.3 Highest Individual Salaries](#73-highest-individual-salaries) | [`eda-7.3-highest-individual-salaries-and-skills.sql`](eda-7.3-highest-individual-salaries-and-skills.sql) |
-| [7.4 Most In-Demand Skills](#74-most-in-demand-skills) | [`eda-7.4-most-in-demand-skills-overall.sql`](eda-7.4-most-in-demand-skills-overall.sql) |
-| [7.5 Most In-Demand Data Analyst Skills](#75-most-in-demand-data-analyst-skills) | [`eda-7.5-most-in-demand-data-analyst-skills.sql`](eda-7.5-most-in-demand-data-analyst-skills.sql) |
-| [7.6 Skills and Salary](#76-skills-and-salary) | [`eda-7.6-data-analyst-skills-and-salaries.sql`](eda-7.6-data-analyst-skills-and-salaries.sql) |
-| [7.7 Company Analysis](#77-company-analysis) | [`eda-7.7-data-analyst-postings-by-company.sql`](eda-7.7-data-analyst-postings-by-company.sql) |
-| [7.8 Geographic Distribution](#78-geographic-distribution) | [`eda-7.8-data-analyst-postings-by-country.sql`](eda-7.8-data-analyst-postings-by-country.sql) |
-| [7.9 Remote Work](#79-remote-work) | [`eda-7.9-remote-data-analyst-jobs-by-country.sql`](eda-7.9-remote-data-analyst-jobs-by-country.sql) |
-| [7.10 Remote vs Non-Remote Salary](#710-remote-vs-non-remote-salary) | [`eda-7.10-remote-vs-nonremote-data-analyst-salaries.sql`](eda-7.10-remote-vs-nonremote-data-analyst-salaries.sql) |
-| [7.11 Monthly Job Demand](#711-monthly-job-demand) | [`eda-7.11-data-analyst-job-demand-over-time.sql`](eda-7.11-data-analyst-job-demand-over-time.sql) |
-| [7.12 Monthly Salary Trend](#712-monthly-salary-trend) | [`eda-7.12-data-analyst-salary-trend-over-time.sql`](eda-7.12-data-analyst-salary-trend-over-time.sql) |
+| [7.1 Job Category Demand](#71-job-category-demand) | [`eda-7.1-job-category-demand.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.1-job-category-demand.sql) |
+| [7.2 Salary by Job Category](#72-salary-by-job-category) | [`eda-7.2-salary-by-job-category.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.2-salary-by-job-category.sql) |
+| [7.3 Highest Individual Salaries](#73-highest-individual-salaries) | [`eda-7.3-highest-individual-salaries-and-skills.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.3-highest-individual-salaries-and-skills.sql) |
+| [7.4 Most In-Demand Skills](#74-most-in-demand-skills) | [`eda-7.4-most-in-demand-skills-overall.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.4-most-in-demand-skills-overall.sql) |
+| [7.5 Most In-Demand Data Analyst Skills](#75-most-in-demand-data-analyst-skills) | [`eda-7.5-most-in-demand-data-analyst-skills.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.5-most-in-demand-data-analyst-skills.sql) |
+| [7.6 Skills and Salary](#76-skills-and-salary) | [`eda-7.6-data-analyst-skills-and-salaries.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.6-data-analyst-skills-and-salaries.sql) |
+| [7.7 Company Analysis](#77-company-analysis) | [`eda-7.7-data-analyst-postings-by-company.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.7-data-analyst-postings-by-company.sql) |
+| [7.8 Geographic Distribution](#78-geographic-distribution) | [`eda-7.8-data-analyst-postings-by-country.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.8-data-analyst-postings-by-country.sql) |
+| [7.9 Remote Work](#79-remote-work) | [`eda-7.9-remote-data-analyst-jobs-by-country.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.9-remote-data-analyst-jobs-by-country.sql) |
+| [7.10 Remote vs Non-Remote Salary](#710-remote-vs-non-remote-salary) | [`eda-7.10-remote-vs-nonremote-data-analyst-salaries.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.10-remote-vs-nonremote-data-analyst-salaries.sql) |
+| [7.11 Monthly Job Demand](#711-monthly-job-demand) | [`eda-7.11-data-analyst-job-demand-over-time.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.11-data-analyst-job-demand-over-time.sql) |
+| [7.12 Monthly Salary Trend](#712-monthly-salary-trend) | [`eda-7.12-data-analyst-salary-trend-over-time.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.12-data-analyst-salary-trend-over-time.sql) |
 
 Run the queries against the project database after loading the source data and creating the tables described in [Database Design](#5-database-design). The results depend on the dataset loaded into those tables.
-
----
-## 14. Dashboard
-The final dashboard should provide visual summaries of:
-- Job category demand
-- Data Analyst skill demand
-- Salary by job category
-- Skill demand vs salary
-- Geographic distribution
-- Remote-work percentage
-- Remote vs non-remote salary
-- Monthly job demand
-- Monthly salary trends
-- Companies with the most Data Analyst postings
-The dashboard should allow users to interact with the analysis through filters such as country, company, job category, skill, remote status, and time period.
 ________________________________________
-## 15. Project Skills Demonstrated
+## 14. Project Skills Demonstrated
 This project demonstrates practical experience in:
 SQL
 - Complex queries
@@ -372,7 +356,7 @@ Business Analytics
 - Communicating findings
 - Making evidence-based recommendations
 ________________________________________
-## 16. Portfolio Project Summary
+## 15. Portfolio Project Summary
 ### Project Title
 Data Analyst Job Market Analysis Using SQL
 ### Tools
