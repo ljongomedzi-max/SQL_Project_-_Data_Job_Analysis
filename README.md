@@ -157,7 +157,7 @@ SQL and Python were particularly prominent across the job market.
 ________________________________________
 ### 7.5 Most In-Demand Data Analyst Skills
 The leading Data Analyst skills were:
-![Top 20 skills for Data Analysts](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/assets/Top%2020%20skills%20for%20Data%20Analyst%20jobs.png!)  
+![Top 20 skills for Data Analysts](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/assets/Top%2020%20skills%20for%20Data%20Analyst%20jobs.png)  
 
 SQL appeared in approximately 92,628 Data Analyst postings.
 ________________________________________
