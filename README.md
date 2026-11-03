@@ -1,5 +1,5 @@
 # Data Analyst Job Market Analysis Using SQL
-
+```
 ┌─────────────────────────────────────────────────────────────┐
 │              DATA ANALYST JOB MARKET ANALYSIS               │
 ├────────────┬────────────┬────────────┬──────────┬───────────┤
@@ -20,7 +20,7 @@
 ├─────────────────────────────────────────────────────────────┤
 │                  KEY INSIGHTS & RECOMMENDATIONS              │
 └─────────────────────────────────────────────────────────────┘
-
+```
 ## Table of Contents
 - [Executive Summary](#1-executive-summary)
 - [Project Objective](#2-project-objective)
