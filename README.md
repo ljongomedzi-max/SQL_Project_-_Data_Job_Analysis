@@ -198,10 +198,29 @@ ________________________________________
 Remote Data Analyst postings were identified across many countries.
 Among countries with at least 500 Data Analyst postings, the proportion marked as remote varied considerably.
 ```
-<img width="784" height="736" alt="image" src="https://github.com/user-attachments/assets/37785392-5f3d-41ac-9e24-4ca32fea0869" />
+Brazil          ████████████████████████ 24.34%
+Canada          █████████████████████    21.28%
+India           █████████████████        17.12%
+Sudan           ███████████████          15.84%
+Romania         ██████████████           14.29%
+Philippines     ████████████             12.70%
+United Kingdom  █████████                9.06%
+United States   ███████                  7.51%
 
 ```
+```
+Country Percentage Distribution (%)
 
+Brazil          | ████████████████████████ 24.34%
+Canada          | █████████████████████    21.28%
+India           | █████████████████        17.12%
+Sudan           | ███████████████          15.84%
+Romania         | ██████████████           14.29%
+Philippines     | ████████████             12.70%
+United Kingdom  | █████████                 9.06%
+United States   | ███████                   7.51%
+
+```
 These percentages describe the dataset's postings and should not be interpreted as national workforce-wide remote-work rates.
 ________________________________________
 ### 7.10 Remote vs Non-Remote Salary
