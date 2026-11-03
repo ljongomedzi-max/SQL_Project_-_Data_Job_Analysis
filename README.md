@@ -15,7 +15,7 @@
 [12. Conclusion](#12-Conclusion)  
 [13. SQL Query Files](#13-SQL-Query-Files)  
 [14. Project Skills Demonstrated](#14-Project-Skills-Demonstrated)  
-[15. Portfolio Project Summary](15-Portfolio-Project-Summary)
+[15. Portfolio Project Summary](#15-Portfolio-Project-Summary)
 
 ## 1. Executive Summary
 This project analyzes 787,686 job postings using PostgreSQL and SQL to identify patterns in Data Analyst demand, salaries, skills, remote work, geographic distribution, companies, and hiring trends.
