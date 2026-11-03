@@ -221,13 +221,12 @@ ________________________________________
 ### 7.10 Remote vs Non-Remote Salary
 For Data Analyst postings containing salary information:
 ```
-Table: Average and Median Salaries by Work Arrangement for Data Analyst Postings
-__________________________________________________________
-|Work Arrangement|Average Salary (USD)|Median Salary (USD)|
-|Remote	         |$94,770	            |$87,250            |
-|Non-remote	     |$93,765	            |$90,000            |
+Table X. Average and Median Salaries by Work Arrangement for Data Analyst Postings
 
-Source: Analysis of Data Analyst job postings containing annual salary information.
+| Work Arrangement | Average Salary (USD) | Median Salary (USD) |
+|------------------|---------------------:|--------------------:|
+| Remote           | $94,770              | $87,250             |
+| Non-remote       | $93,765              | $90,000             |
 ```
 The average and median produced different comparisons, demonstrating the importance of using multiple measures when examining salary distributions.
 ________________________________________
