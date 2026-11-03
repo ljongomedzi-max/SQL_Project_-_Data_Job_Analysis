@@ -1,7 +1,7 @@
 # Data Analyst Job Market Analysis Using SQL
 
 ## Table of Contents
-1. [Executive Summary](#1-executive-summary)
+[1. Executive Summary](#1-executive-summary)
 2. [Project Objective](#2-project-objective)
 - [Database Design](#5-database-design)
 - [Exploratory Data Analysis](#7-exploratory-data-analysis)
