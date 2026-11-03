@@ -239,6 +239,10 @@ May 2023 — 13,457 postings
 The dataset also contained only 485 Data Analyst postings in December 2022, suggesting that December should be treated as a partial-data period rather than compared directly with complete months.
 ________________________________________
 ### 7.12 Monthly Salary Trend
+
+<img width="822" height="542" alt="image" src="https://github.com/user-attachments/assets/337df86f-9d8e-4ef6-8c38-75b25d1a6367" />
+
+
 Salary levels were generally stronger around July and August 2023.
 The median salary reached approximately:
 $95,000 in July and August 2023
