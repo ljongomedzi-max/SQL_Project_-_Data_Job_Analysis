@@ -315,7 +315,7 @@ Each EDA subsection has a matching PostgreSQL query file:
 | EDA section | SQL file |
 | --- | --- |
 | [7.1 Job Category Demand](#71-job-category-demand) | [`eda-7.1-job-category-demand.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.1-job-category-demand.sql) |
-| [7.2 Salary by Job Category](#72-salary-by-job-category) | [`eda-7.2-salary-by-job-category.sql`](eda-7.2-salary-by-job-category.sql) |
+| [7.2 Salary by Job Category](#72-salary-by-job-category) | [`eda-7.2-salary-by-job-category.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.2-salary-by-job-category.sql) |
 | [7.3 Highest Individual Salaries](#73-highest-individual-salaries) | [`eda-7.3-highest-individual-salaries-and-skills.sql`](eda-7.3-highest-individual-salaries-and-skills.sql) |
 | [7.4 Most In-Demand Skills](#74-most-in-demand-skills) | [`eda-7.4-most-in-demand-skills-overall.sql`](eda-7.4-most-in-demand-skills-overall.sql) |
 | [7.5 Most In-Demand Data Analyst Skills](#75-most-in-demand-data-analyst-skills) | [`eda-7.5-most-in-demand-data-analyst-skills.sql`](eda-7.5-most-in-demand-data-analyst-skills.sql) |
