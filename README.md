@@ -1,12 +1,22 @@
 # Data Analyst Job Market Analysis Using SQL
 
 ## Table of Contents
-[1. Executive Summary](#1-executive-summary)
-2. [Project Objective](#2-project-objective)
-- [Database Design](#5-database-design)
-- [Exploratory Data Analysis](#7-exploratory-data-analysis)
-- [Key Findings](#8-key-findings)
-- [Recommendations](#10-recommendations)
+[1. Executive Summary](#1-executive-summary)  
+[2. Project Objective](#2-project-objective)  
+[3. Business Questions](#3-business-questions)  
+[4. Dataset](#4-Dataset)  
+[5. Database Design](#5-database-design)  
+[6. Tools and Technologies](#6-Tools-and-Technologies)
+[7. Exploratory Data Analysis](#7-exploratory-data-analysis)
+[8. Key Findings](#8-key-findings)
+[ 9. Career Insights](#9-Career-Insights)
+[10. Recommendations](#10-recommendations)  
+[11. Limitations](#11-Limitations)  
+[12. Conclusion](#12-Conclusion)  
+[13. SQL Query Files](#13-SQL-Query-Files)  
+[14. Project Skills Demonstrated](#14-Project-Skills-Demonstrated)  
+[15. Portfolio Project Summary](15-Portfolio-Project-Summary)
+
 ## 1. Executive Summary
 This project analyzes 787,686 job postings using PostgreSQL and SQL to identify patterns in Data Analyst demand, salaries, skills, remote work, geographic distribution, companies, and hiring trends.
 The analysis found that  
@@ -98,9 +108,6 @@ The project uses:
 - Conditional aggregation
 - Filtering
 - Data validation
-
-💡
-🔍SQL queries? Check them out here: [project_sql folder](/project_sql/)
 ________________________________________
 ## 7. Exploratory Data Analysis
 ### 7.1 Job Category Demand
@@ -328,23 +335,8 @@ Each EDA subsection has a matching PostgreSQL query file:
 | [7.12 Monthly Salary Trend](#712-monthly-salary-trend) | [`eda-7.12-data-analyst-salary-trend-over-time.sql`](https://github.com/ljongomedzi-max/SQL_Project_-_Data_Job_Analysis/blob/main/project_sql/eda-7.12-data-analyst-salary-trend-over-time.sql) |
 
 Run the queries against the project database after loading the source data and creating the tables described in [Database Design](#5-database-design). The results depend on the dataset loaded into those tables.
-
----
-## 14. Dashboard
-The final dashboard should provide visual summaries of:
-- Job category demand
-- Data Analyst skill demand
-- Salary by job category
-- Skill demand vs salary
-- Geographic distribution
-- Remote-work percentage
-- Remote vs non-remote salary
-- Monthly job demand
-- Monthly salary trends
-- Companies with the most Data Analyst postings
-The dashboard should allow users to interact with the analysis through filters such as country, company, job category, skill, remote status, and time period.
 ________________________________________
-## 15. Project Skills Demonstrated
+## 14. Project Skills Demonstrated
 This project demonstrates practical experience in:
 SQL
 - Complex queries
@@ -372,7 +364,7 @@ Business Analytics
 - Communicating findings
 - Making evidence-based recommendations
 ________________________________________
-## 16. Portfolio Project Summary
+## 15. Portfolio Project Summary
 ### Project Title
 Data Analyst Job Market Analysis Using SQL
 ### Tools
